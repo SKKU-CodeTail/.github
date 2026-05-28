@@ -26,7 +26,12 @@
 을 결합하여 몰입감 있는 학습 경험을 목표로 합니다.
 
 ---
+# UI
+<img width="1288" height="777" alt="image" src="https://github.com/user-attachments/assets/2159e23b-812b-46cd-ab02-315a581ab209" />
+<img width="1327" height="885" alt="image" src="https://github.com/user-attachments/assets/d5db5770-32f7-4167-93ac-cb3d90b1dd78" />
+<img width="1365" height="896" alt="image" src="https://github.com/user-attachments/assets/a1aeb4a9-1a23-4f4e-b6cd-32e7be50f370" />
 
+---
 # ✨ Main Features
 
 ## 🎯 Personalized Curriculum
@@ -58,7 +63,7 @@
 * Test Case 실행
 * Compile 결과 확인
 * 코드 저장 및 복구 기능
-
+  
 ---
 
 ## 🤖 AI Code Review
